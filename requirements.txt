@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+streamlit
+streamlit-drawable-canvas
+pillow
+numpy
+opencv-python-headless
+tqdm
+scikit-learn
+pandas
